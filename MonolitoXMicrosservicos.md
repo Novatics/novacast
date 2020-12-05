@@ -12,9 +12,7 @@ Neste episódio conversamos sobre quais as diferenças entre os 2 padrōes, quai
 
 ## Referências
 
-Artigo bem explicativo apresentado bem detalhadamente os porquês e a importância desse padrão arquitetural [Microservices - Martin Fowler and James Lewis](https://martinfowler.com/articles/microservices.html)
-
-Esse link contém o mesmo conteúdo do anterior mas em Português traduzido pelo `Pedro Mendes` [Microsserviços, por Martin Fowler e James Lewis](http://www.pedromendes.com.br/2016/01/02/microservicos/)
+Artigo bem explicativo apresentado bem detalhadamente os porquês e a importância desse padrão arquitetural [Microservices - Martin Fowler and James Lewis](https://martinfowler.com/articles/microservices.html). Este artigo foi traduzido pelo `Pedro Mendes` e pode ser encontrado [aqui](http://www.pedromendes.com.br/2016/01/02/microservicos/)
 
 Boa explicação da diferença entre os tipos abordados no episódio [Microservices vs Monolithic architecture | MuleSoft](https://www.mulesoft.com/resources/api/microservices-vs-monolithic)
 
