@@ -5,10 +5,10 @@ Monolitos e Microsserviços usualmente tem sido colocados como padrōes arquitet
 Nesse episódio conversamos sobre quais as diferenças entre os 2 padrōes, quais consideramos serem as maiores vantagens e desvantagens de um tipo sobre o outro, quando deve-se comecar um projeto usanto Monolito, ou utilizando Microsserviços, e como seria possivel migrar de Monolito para Microsserviços.
 
 ## No episódio de hoje temos como participantes:
-  * Luis Ramirez
-  * Gabriel Santo
-  * Flávio Alves
-  * Vitor Ribeiro
+  * Luis Ramirez - Host
+  * Gabriel Santo - Co-Host
+  * Flávio Alves - CEO da Novatics
+  * Vitor Ribeiro - Engenheiro de Software na Novatics
 
 ## Referências
 
