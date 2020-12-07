@@ -14,6 +14,7 @@ Neste episódio conversamos sobre quais as diferenças entre os 2 padrōes, quai
 * [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 * [Big Design Up Front (BDUF)](https://en.wikipedia.org/wiki/Big_Design_Up_Front)
 * [Why you should follow the robustness principle in your APIs](https://engineering.klarna.com/why-you-should-follow-the-robustness-principle-in-your-apis-b77bd9393e4b)
+* [Architecture Golf — make knowledge sharing smooth](https://engineering.klarna.com/architecture-golf-60fb51a6e787)
 * [Serverless](https://www.serverless.com)
 ## Referências
 
