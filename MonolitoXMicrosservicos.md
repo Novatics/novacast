@@ -10,13 +10,18 @@ Neste episódio conversamos sobre quais as diferenças entre os 2 padrōes, quai
   * Flávio Alves - CEO da Novatics
   * Vitor Ribeiro - Engenheiro de Software na Novatics
 
+## Referências a conteúdos abordados durante o programa
+* [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
+* [Big Design Up Front (BDUF)](https://en.wikipedia.org/wiki/Big_Design_Up_Front)
+* [Why you should follow the robustness principle in your APIs](https://engineering.klarna.com/why-you-should-follow-the-robustness-principle-in-your-apis-b77bd9393e4b)
+* [Serverless](https://www.serverless.com)
 ## Referências
 
 Artigo bem explicativo apresentado bem detalhadamente os porquês e a importância desse padrão arquitetural [Microservices - Martin Fowler and James Lewis](https://martinfowler.com/articles/microservices.html). Este artigo foi traduzido pelo `Pedro Mendes` e pode ser encontrado [aqui](http://www.pedromendes.com.br/2016/01/02/microservicos/)
 
 Boa explicação da diferença entre os tipos abordados no episódio [Microservices vs Monolithic architecture | MuleSoft](https://www.mulesoft.com/resources/api/microservices-vs-monolithic)
 
-Boa referência para aqueles que preferem ouvir podcasts :eyes: 
+Boa referência para aqueles que preferem ouvir podcasts
 
 [Podcast Full Cycle: Microsserviços](https://www.youtube.com/watch?v=ZI8l8Zf3iZM)
 
