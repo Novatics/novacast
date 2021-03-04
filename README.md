@@ -31,8 +31,8 @@ Simples não é? Sinta-se convidado(a) a participar!!
 
 ### Q1
 
-- **Host:** Luis Ramirez
-- **Co-Host:** Gabriel Santo
+- **Host:** Gabriel Santo
+- **Co-Host:** Ana Alice
 
 | Episódio                                                                                                | Área |
 | ------------------------------------------------------------------------------------------------------- | :--: |
